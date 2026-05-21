@@ -1,9 +1,9 @@
 Model,Keyword,Config,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BERTScore-F1
-facebook/bart-large-cnn,no_query,cfg1,33.995,14.3979,24.4448,23.9516,57.8175
-facebook/bart-large-cnn,no_query,cfg2,34.1454,14.4789,24.383,24.152,57.8357
-facebook/bart-large-cnn,baseline,cfg1,39.6651,17.8881,27.8392,27.2749,61.5324
-facebook/bart-large-cnn,baseline,cfg2,38.7841,17.3523,27.5476,27.3111,61.1144
-facebook/bart-large-cnn,RAKE,cfg1,39.2289,17.7355,27.6891,27.4863,61.3156
-facebook/bart-large-cnn,RAKE,cfg2,38.9255,17.3355,27.2995,27.1757,60.8939
-facebook/bart-large-cnn,KBmini,cfg1,38.9379,17.5219,27.3798,27.3022,61.4187
-facebook/bart-large-cnn,KBmini,cfg2,39.1085,17.5873,27.4863,27.6724,61.1083
+facebook/bart-large-cnn,no_query,cfg1,34.3141,14.5619,24.5631,24.0972,84.6308
+facebook/bart-large-cnn,no_query,cfg2,34.29,14.5159,24.4241,24.2129,84.518
+facebook/bart-large-cnn,baseline,cfg1,39.0604,17.6278,27.7462,27.2775,86.0652
+facebook/bart-large-cnn,baseline,cfg2,38.841,17.2852,27.1294,27.2105,85.9186
+facebook/bart-large-cnn,RAKE,cfg1,39.7998,18.2879,28.1364,28.1172,86.1719
+facebook/bart-large-cnn,RAKE,cfg2,38.726,17.4095,27.267,26.8916,86.0055
+facebook/bart-large-cnn,KBmini,cfg1,39.5763,17.766,27.8428,27.6829,86.163
+facebook/bart-large-cnn,KBmini,cfg2,39.4925,17.4669,27.7154,27.4397,86.0949
