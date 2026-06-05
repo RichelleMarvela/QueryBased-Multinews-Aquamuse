@@ -1,0 +1,2 @@
+Model,Keyword,Config,ROUGE-1,ROUGE-2,ROUGE-L,METEOR,BLEU,BERTScore-F1
+facebook/bart-large-cnn,no_query,cfg1,38.9195,20.9332,29.707,28.8675,16.5664,86.0734
